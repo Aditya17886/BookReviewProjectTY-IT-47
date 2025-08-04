@@ -16,11 +16,10 @@ function Home() {
 
       <div className="content">
         <h1>
-          <span className="italic">Which</span> book{" "}
-          <span className="italic">do</span> you
-          <br />
-          want to <span className="italic">read?</span>
+          Which <span className="highlight">book</span> do you want to{" "}
+          <span className="highlight">read</span>?
         </h1>
+
         <p>
           Lost in choices? Explore our handpicked collection and find your next
           great read!
