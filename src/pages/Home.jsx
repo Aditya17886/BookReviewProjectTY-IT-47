@@ -15,10 +15,7 @@ function Home() {
       </nav>
 
       <div className="content">
-        <h1>
-          Which <span className="highlight">book</span> do you want to{" "}
-          <span className="highlight">read</span>?
-        </h1>
+       <h1 className="main-heading">Which book do you want to read?</h1>
 
         <p>
           Lost in choices? Explore our handpicked collection and find your next
